@@ -1,0 +1,10 @@
+{
+  "name": "com.grofit.bindingsrx",
+  "displayName": "BindingsRx",
+  "version": "0.4.0",
+  "description": "A 2 way binding system for unity using unirx",
+  "type": "library",
+  "dependencies": {
+	"com.neuecc.unirx": "https://github.com/starikcetin/UniRx.git#7.1.0"
+  }
+}

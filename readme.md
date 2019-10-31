@@ -1,3 +1,7 @@
+This repository has UPM support. Use https://github.com/mob-sakai/UpmGitExtension for installing it directly in Unity.
+
+----
+
 # BindingsRx
 
 BindingsRx is a one or two way binding system for unity using unirx.

@@ -696,6 +696,10 @@
       <Project>{4CFFDA30-0E63-039E-0DCA-DAC117CE2649}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="BindingsRx.csproj">
+      <Project>{B593D756-92B8-F850-1296-4D863388406C}</Project>
+      <Name>BindingsRx</Name>
+    </ProjectReference>
     <ProjectReference Include="UniRx.csproj">
       <Project>{EB5BB4EA-F22B-E8E9-3D41-C3930B798F7C}</Project>
       <Name>UniRx</Name>

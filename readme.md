@@ -1,4 +1,6 @@
-This repository has UPM support. Use https://github.com/mob-sakai/UpmGitExtension for installing it directly in Unity.
+This repository has UPM support. Use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) for installing it directly in Unity.
+
+If you are using TextMeshPro, grab this package as well: [BindingsRx-TextMeshPro](https://github.com/starikcetin/BindingsRx-TextMeshPro)
 
 ----
 

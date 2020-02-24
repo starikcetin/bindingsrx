@@ -5,6 +5,6 @@
   "description": "A 2 way binding system for unity using unirx",
   "type": "library",
   "dependencies": {
-	"com.neuecc.unirx": "https://github.com/starikcetin/UniRx.git#7.1.0"
+	"com.neuecc.unirx": "7.1.0"
   }
 }

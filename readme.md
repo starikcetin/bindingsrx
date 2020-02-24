@@ -1,6 +1,11 @@
-This repository has UPM support. Use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) for installing it directly in Unity.
+[![openupm](https://img.shields.io/npm/v/com.grofit.bindingsrx?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.grofit.bindingsrx/)
 
-If you are using TextMeshPro, grab this package as well: [BindingsRx-TextMeshPro](https://github.com/starikcetin/BindingsRx-TextMeshPro)
+This repository has UPM support. Install it with:
+
+```
+npm install -g openupm-cli
+openupm add com.grofit.bindingsrx
+```
 
 ----
 
